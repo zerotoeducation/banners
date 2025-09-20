@@ -1,16 +1,16 @@
 [
   {
-    "imageUrl": "https://i.postimg.cc/xyz/banner1.jpg",
+    "imageUrl": "https://picsum.photos/300/150?random=1",
     "title": "Banner 1",
     "link": "https://example.com"
   },
   {
-    "imageUrl": "https://i.postimg.cc/xyz/banner2.jpg",
+    "imageUrl": "https://picsum.photos/300/150?random=2",
     "title": "Banner 2",
     "link": "https://example.com"
   },
   {
-    "imageUrl": "https://i.postimg.cc/xyz/banner3.jpg",
+    "imageUrl": "https://picsum.photos/300/150?random=3",
     "title": "Banner 3",
     "link": "https://example.com"
   }
