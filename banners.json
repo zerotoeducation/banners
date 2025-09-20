@@ -1,0 +1,17 @@
+[
+  {
+    "imageUrl": "https://i.postimg.cc/xyz/banner1.jpg",
+    "title": "Banner 1",
+    "link": "https://example.com"
+  },
+  {
+    "imageUrl": "https://i.postimg.cc/xyz/banner2.jpg",
+    "title": "Banner 2",
+    "link": "https://example.com"
+  },
+  {
+    "imageUrl": "https://i.postimg.cc/xyz/banner3.jpg",
+    "title": "Banner 3",
+    "link": "https://example.com"
+  }
+]
