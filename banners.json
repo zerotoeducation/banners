@@ -5,7 +5,11 @@
     "link": "https://example.com"
   },
 
- 
+  {
+    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/2.png",
+    "title": "Banner 1",
+    "link": "https://example.com"
+  },
   
   {
     "imageUrl": "https://picsum.photos/300/150?random=2",
@@ -21,6 +25,7 @@
     "link": "https://example.com"
   }
 ]
+
 
 
 
