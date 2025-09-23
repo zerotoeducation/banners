@@ -1,6 +1,6 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/1.png",
+    "imageUrl": "https://raw.github.com/zerotoeducation/banners/blob/main/2.png",
     "title": "Banner 1",
     "link": "https://example.com"
   },
@@ -15,4 +15,5 @@
     "link": "https://example.com"
   }
 ]
+
 
