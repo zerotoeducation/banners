@@ -1,6 +1,6 @@
 [
   {
-    "imageUrl": "https://picsum.photos/300/150?random=1",
+    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/1.png",
     "title": "Banner 1",
     "link": "https://example.com"
   },
@@ -15,3 +15,4 @@
     "link": "https://example.com"
   }
 ]
+
