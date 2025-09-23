@@ -1,6 +1,6 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/2.png",
+    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/1.png",
     "title": "Banner 1",
     "link": "https://example.com"
   },
@@ -10,21 +10,50 @@
     "title": "Banner 1",
     "link": "https://example.com"
   },
-  
-  {
-    "imageUrl": "https://picsum.photos/300/150?random=2",
-    "title": "Banner 2",
-    "link": "https://example.com"
-  },
- 
-  
-  
   {
     "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/3.png",
-    "title": "Banner 3",
+    "title": "Banner 1",
+    "link": "https://example.com"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/4.png",
+    "title": "Banner 1",
+    "link": "https://example.com"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/5.png",
+    "title": "Banner 1",
+    "link": "https://example.com"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/6.png",
+    "title": "Banner 1",
+    "link": "https://example.com"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/7.png",
+    "title": "Banner 1",
+    "link": "https://example.com"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/8.png",
+    "title": "Banner 1",
+    "link": "https://example.com"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/9.png",
+    "title": "Banner 1",
+    "link": "https://example.com"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/zerotoeducation/banners/main/10.png",
+    "title": "Banner 1",
     "link": "https://example.com"
   }
+  
+ 
 ]
+
 
 
 
